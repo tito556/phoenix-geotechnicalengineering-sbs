@@ -1,0 +1,47 @@
+# Geotechnicalengineering — Phoenix
+
+> Geotechnical engineering services in Phoenix, United States.
+
+## Services
+- [Anchors](https://phoenix.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://phoenix.geotechnicalengineering.sbs/atterberg-limits/)
+- [Excavation Monitoring](https://phoenix.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://phoenix.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://phoenix.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://phoenix.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://phoenix.geotechnicalengineering.sbs/foundations/)
+- [Geophysics](https://phoenix.geotechnicalengineering.sbs/geophysics/)
+- [Grain Size](https://phoenix.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://phoenix.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://phoenix.geotechnicalengineering.sbs/grouting/)
+- [In Situ Permeability](https://phoenix.geotechnicalengineering.sbs/in-situ-permeability/)
+- [Investigation](https://phoenix.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://phoenix.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://phoenix.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://phoenix.geotechnicalengineering.sbs/liquefaction/)
+- [Mat Foundations](https://phoenix.geotechnicalengineering.sbs/mat-foundations/)
+- [Plate Load Test](https://phoenix.geotechnicalengineering.sbs/plate-load-test/)
+- [Resistivity](https://phoenix.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://phoenix.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://phoenix.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://phoenix.geotechnicalengineering.sbs/road-geotechnics/)
+- [Sand Cone Density](https://phoenix.geotechnicalengineering.sbs/sand-cone-density/)
+- [Seismic](https://phoenix.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://phoenix.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://phoenix.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://phoenix.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://phoenix.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://phoenix.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://phoenix.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://phoenix.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://phoenix.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://phoenix.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://phoenix.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://phoenix.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://phoenix.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Phoenix, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
